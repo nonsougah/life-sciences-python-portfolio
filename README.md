@@ -1,6 +1,6 @@
 # Life Sciences + Python Portfolio
 
-**Owner:** Add your preferred professional name and contact links before publishing.  
+**Owner:** Ugah Chinonso Valentine 
 **Purpose:** Demonstrate practical Python workflows relevant to pharmacology, biomedical data analysis, and introductory bioinformatics.
 
 > **Transparency notice:** These are portfolio learning demonstrations. The pharmacology and biomedical cohort notebooks use synthetic data. The sequence notebook uses an illustrative sequence. They are not publications, client projects, clinical research, or evidence of experimental findings.
